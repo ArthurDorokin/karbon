@@ -1,6 +1,6 @@
 import {combineReducers} from 'redux'
-import data from "./data";
+import devicesData from "./devicesData";
 
 export default combineReducers ({
-    data
+    data: devicesData
 })

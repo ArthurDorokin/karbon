@@ -1,4 +1,4 @@
-const dataApi = [{
+const data = [{
     "api":
         {
             "deviceTree":
@@ -59,5 +59,5 @@ const dataApi = [{
 }]
 
 export {
-    dataApi,
+    data,
 }

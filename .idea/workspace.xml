@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="450496cc-23ac-4c40-aca0-7ea82c8a6c01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/component/content/edit-page/EditPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/content/edit-page/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/content/main-page/MainPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/content/main-page/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/redux/reducers/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/redux/reducers/rootReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constans.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/localStorage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/redux/actions/devicesData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/content/main-page/MainPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/content/main-page/MainPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/redux/reducers/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/redux/reducers/devicesData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/redux/reducers/rootReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/redux/reducers/rootReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constans.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/constans.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +45,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2019.2.5\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -61,11 +61,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612197359602</updated>
-      <workItem from="1612197360722" duration="3063000" />
+      <workItem from="1612197360722" duration="10980000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1612200472866</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612200472866</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first">
+      <created>1612200499003</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612200499003</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
 </project>
