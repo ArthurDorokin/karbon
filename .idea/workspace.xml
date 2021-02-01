@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="450496cc-23ac-4c40-aca0-7ea82c8a6c01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/component/redux/actions/devicesData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/content/main-page/MainPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/content/main-page/MainPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/redux/reducers/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/redux/reducers/devicesData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/redux/reducers/rootReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/redux/reducers/rootReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constans.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/constans.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612197359602</updated>
-      <workItem from="1612197360722" duration="10980000" />
+      <workItem from="1612197360722" duration="12715000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1612200472866</created>
@@ -77,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612200499003</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="output deviceTree">
+      <created>1612214109792</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612214109792</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +87,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <MESSAGE value="output deviceTree" />
+    <option name="LAST_COMMIT_MESSAGE" value="output deviceTree" />
   </component>
 </project>
