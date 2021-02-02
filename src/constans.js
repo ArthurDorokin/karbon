@@ -33,7 +33,7 @@ const data = [{
                             "driver": "Ingenico",
                             "modName": "POS",
                             "modVersion": 1,
-                            "options": [{}, {"merchantIdx": "1"}],
+                            "options": [{}, {"merchantIdx": 1}],
                             "port": "/dev/serial/by-id/usb-INGENICO_Ingenico_iUP250-if00",
                             "status": 0
                         }],

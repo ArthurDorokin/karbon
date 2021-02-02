@@ -6,12 +6,12 @@ const EditPage = () => {
     console.log(editPageData);
     return (
         <div className="edit-page">
-            <div className="driver">driver - {editPageData.driver}</div>
-            <div className="modName">modName - {editPageData.modName}</div>
-            <div className="mod-version">modVersion - {editPageData.modVersion}</div>
-            <div className="port">port - {editPageData.port}</div>
-            <div className="status">status - {editPageData.status}</div>
-            <div className="status-descr">statusDescr - {editPageData.statusDescr}</div>
+            <div className="driver">driver - {editPageData.driver?.length ? editPageData.driver : 'null'}</div>
+            <div className="modName">modName - {editPageData.modName?.length ? editPageData.modName : 'null'}</div>
+            <div className="mod-version">modVersion - {editPageData.modVersion?.length ? editPageData.modVersion : 'null'}</div>
+            <div className="port">port - {editPageData.port?.length ? editPageData.port : 'null'}</div>
+            <div className="status">status - {editPageData.status?.length ? editPageData.status : 'null'}</div>
+            <div className="status-descr">statusDescr - {editPageData.statusDescr?.length ? editPageData.statusDescr : 'null'}</div>
         </div>
     )
 }
