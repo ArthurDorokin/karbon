@@ -1,3 +1,4 @@
+
 const initialState = {
     cardReader: null,
     cashAcceptor: null,
@@ -5,7 +6,8 @@ const initialState = {
     pos: null,
     printer: null,
     productDispenser: null,
-    deviceTreeTypeMap: null
+    productDispenserCount: null,
+    deviceTreeTypeMap: null,
 }
 
 export default function devicesData(state = initialState, action) {
