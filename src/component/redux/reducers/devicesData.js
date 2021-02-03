@@ -5,6 +5,7 @@ const initialState = {
     pos: null,
     printer: null,
     productDispenser: null,
+    deviceTreeTypeMap: null
 }
 
 export default function devicesData(state = initialState, action) {
@@ -18,6 +19,7 @@ export default function devicesData(state = initialState, action) {
                 pos: action.payload[0].api.deviceTree.POS[0],
                 printer: action.payload[0].api.deviceTree.Printer[0],
                 productDispenser: action.payload[0].api.deviceTree.ProductDispenser[0],
+                deviceTreeTypeMap: action.payload[0].api.deviceTreeTypeMap
             };
         default:
             return state;
